@@ -1,0 +1,29 @@
+{
+  "name": "angular-dragdrop2",
+  "version": "1.0.3",
+  "homepage": "https://github.com/markwylde/angular-dragdrop.git",
+  "authors": [
+    "ganarajpr",
+    "markwylde",
+    "Digital Shilling"
+  ],
+  "description": "A Native ( without jquery ) Drag and Drop directive for AngularJS using HTML5 Drag and Drop. Working version for middleware",
+  "main": "draganddrop.js",
+  "keywords": [
+    "angular",
+    "drag",
+    "drop",
+    "html5"
+  ],
+  "dependencies": {
+    "angular": ">= 1.0.8"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
